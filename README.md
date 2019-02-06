@@ -2,15 +2,25 @@
 
 ## 2019/01/31
 
-<kbd>i</kbd>  - insert mode
+<kbd>i</kbd>  - insert before the cursor
 
-<kbd>a</kbd> - append
+<kbd>I</kbd> - insert at the beginning of the line
+
+
+
+<kbd>a</kbd> - append after the cursor
+
+<kbd>A</kbd> append at the end of the line
 
 <kbd>cc</kbd> - delete the line and get into insert mode
+
+<kbd>dd</kbd> - delete the line
 
 <kbd>cw</kbd> - change word.a
 
 <kbd>hjklwb</kbd>
+
+
 
 <kbd>esc</kbd> - normal mode
 
