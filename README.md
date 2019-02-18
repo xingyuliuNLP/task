@@ -1,5 +1,8 @@
 # everydayList
 this line is added by xow to send a pull request
+
+c'est le bazar ici !!! Bougez vos doigts et commencez a vous exercer !   18/02/2019 @ 18:16
+
 ## 2019/01/31
 
 <kbd>i</kbd>  - insert before the cursor
@@ -24,7 +27,7 @@ this line is added by xow to send a pull request
 
 <kbd>esc</kbd> - normal mode
 
-<kbd>mM</kbd> - m: add mark M: go to mark
+<kbd>mM</kbd> - M: add mark mm: go to mark  ma: show all the marks across files
 
 
 <kbd>vi"</kbd> - view the content inside "
