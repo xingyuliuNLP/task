@@ -1,40 +1,15 @@
-# everydayList
-this line is added by xow to send a pull request
 
-c'est le bazar ici !!! Bougez vos doigts et commencez a vous exercer !   18/02/2019 @ 18:16
-
-## 2019/01/31
-
-<kbd>i</kbd>  - insert before the cursor
-
-<kbd>I</kbd> - insert at the beginning of the line
+# Vim Shortcuts
 
 
-<kbd>a</kbd> - append after the cursor
+#### Cursor mouvement (Normal mode)
+<kbd>h</kbd> - move cursor left
 
-<kbd>A</kbd> append at the end of the line
+<kbd>j</kbd> - move cursor down
 
-<kbd>cc</kbd> - delete the line and get into insert mode
+<kbd>k</kbd> - move cursor up
 
-<kbd>dd</kbd> - delete the line
-
-<kbd>cw</kbd> - change word.a
-
-<kbd>hjklwb</kbd>
-
-<kbd>space f f</kbd>
-: create a new file
-
-<kbd>esc</kbd> - normal mode
-
-<kbd>mM</kbd> - M: add mark mm: go to mark  ma: show all the marks across files
-
-
-<kbd>vi"</kbd> - view the content inside "
-
-<kbd>yy</kbd> - yank/copy
-
-<kbd>p</kbd> - paste
+<kbd>l</kbd> - move cursor right
 
 <kbd>w</kbd> - jump forwards to the start of a word
 
@@ -46,12 +21,48 @@ c'est le bazar ici !!! Bougez vos doigts et commencez a vous exercer !   18/02/2
 
 <kbd>G</kbd> - go to the last line of the document
 
+<kbd>25G</kbd> - go to line 25
+
 <kbd>{</kbd> - jump to previous paragraph
 
 <kbd>}</kbd> - jump to next paragraph
 
 <kbd>zz</kbd> - center cursor on screen
-- [ ] [View the web developer course](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
-- [ ] Read the nltk book
 
-- [ ] [View the nlp course of udemy](https://www.udemy.com/data-science-natural-language-processing-in-python/)
+#### Inserting text & Editing
+<kbd>i</kbd>  - insert before the cursor
+
+<kbd>I</kbd> - insert at the beginning of the line
+
+<kbd>ea</kbd> - insert at the end of the word
+
+<kbd>a</kbd> - append after the cursor
+
+<kbd>A</kbd> append at the end of the line
+
+<kbd>cc</kbd> - delete the line and get into insert mode
+
+<kbd>dd</kbd> - delete the line
+
+<kbd>cw</kbd> - change to the end of the word
+
+<kbd>ciw</kbd> - change entire word
+
+<kbd>ci"</kbd> - change word inside quotation marks
+
+#### Marks
+<kbd>m</kbd> - add mark
+
+<kbd>M</kbd> - go to mark
+
+#### Copy and paste
+<kbd>yy</kbd> - yank/copy
+
+<kbd>p</kbd> - paste
+
+#### View
+<kbd>vi"</kbd> - view the content inside "
+
+
+
+
