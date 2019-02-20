@@ -1,8 +1,6 @@
-
 # Vim Shortcuts
 
-
-#### Cursor mouvement (Normal mode)
+## Cursor mouvement (Normal mode)
 <kbd>h</kbd> - move cursor left
 
 <kbd>j</kbd> - move cursor down
@@ -29,7 +27,7 @@
 
 <kbd>zz</kbd> - center cursor on screen
 
-#### Inserting text & Editing
+## Inserting text & Editing
 <kbd>i</kbd>  - insert before the cursor
 
 <kbd>I</kbd> - insert at the beginning of the line
@@ -50,18 +48,20 @@
 
 <kbd>ci"</kbd> - change word inside quotation marks
 
-#### Marks
-<kbd>m</kbd> - add mark
+## Marks
+<kbd>mm</kbd> - go to mark 
 
-<kbd>M</kbd> - go to mark
+<kbd>M</kbd> - add mark
 
-#### Copy and paste
-<kbd>yy</kbd> - yank/copy
+## Copy and paste
+<kbd>yy</kbd> - yank the line
 
 <kbd>p</kbd> - paste
 
-#### View
+## View
 <kbd>vi"</kbd> - view the content inside "
+
+
 
 
 
