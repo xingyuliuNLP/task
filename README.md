@@ -58,9 +58,9 @@
 
 <kbd>p</kbd> - paste
 
-<kbd>shift+alt+🔼</kbd> - copy line up
+<kbd>shift + alt + 🔼</kbd> - copy line up
 
-<kbd>control+q</kbd> - copy line down
+<kbd>control + q</kbd> - copy line down
 
 ## View
 <kbd>vi"</kbd> - view the content inside "
