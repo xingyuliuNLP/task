@@ -1,5 +1,8 @@
 # Vim Shortcuts
 
+## Open the list of keyboard shortcuts
+<kbd>space + 0</kbd>
+
 ## Cursor mouvement (Normal mode)
 <kbd>h</kbd> - move cursor left
 
