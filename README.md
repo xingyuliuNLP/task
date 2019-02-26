@@ -30,7 +30,7 @@
 
 <kbd>zz</kbd> - center cursor on screen
 
-## Multi cursor
+## Select all occurrences of find match
 <kbd>command + shift + l</kbd>  
 
 ## Inserting text & Editing
