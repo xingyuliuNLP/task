@@ -30,6 +30,9 @@
 
 <kbd>zz</kbd> - center cursor on screen
 
+## Multi cursor
+<kbd>command + shift + l</kbd>  
+
 ## Inserting text & Editing
 <kbd>i</kbd>  - insert before the cursor
 
