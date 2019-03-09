@@ -71,7 +71,8 @@
 ## View
 <kbd>vi"</kbd> - view the content inside "
 
-
+## Search
+<kbd>/</kbd>
 
 
 
