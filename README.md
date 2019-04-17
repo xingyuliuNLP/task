@@ -1,5 +1,5 @@
 # Vim Shortcuts
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ## Open the list of keyboard shortcuts
 <kbd>space + 0</kbd>
 
